@@ -7,7 +7,7 @@
     <meta name="author" content="">
     <link rel="icon" href="/favicon.ico">
 
-    <title>Sariasuryan</title>
+    <title>Profil Alwi</title>
 
     <!-- Bootstrap core CSS -->
     <link href="/bootstrap-4.0.0/dist/css/bootstrap.min.css" rel="stylesheet">
