@@ -14,11 +14,11 @@
 //Route::get('/', function () {
 //    return view('home');
 //});
-Route::get('/', 'PostController@index');
+//Route::get('/', 'PostController@index');
 Route::get('/profile', function () {
     return view('profile');
 });
 
-Route::get('/contact', function () {
-    return view('contact');
-});
+//Route::get('/contact', function () {
+  //  return view('contact');
+//});
