@@ -15,7 +15,7 @@
 //    return view('home');
 //});
 //Route::get('/', 'PostController@index');
-Route::get('/profile', function () {
+Route::get('/', function () {
     return view('profile');
 });
 
