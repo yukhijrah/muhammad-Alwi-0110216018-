@@ -16,7 +16,7 @@
 //});
 //Route::get('/', 'PostController@index');
 Route::get('/', function () {
-    return view('profile');
+   return view('profile');
 });
 
 //Route::get('/contact', function () {

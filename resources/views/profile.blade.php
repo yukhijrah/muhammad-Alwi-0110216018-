@@ -7,7 +7,7 @@
     <meta name="author" content="">
     <link rel="icon" href="/favicon.ico">
 
-    <title>Profil Alwi</title>
+    <title>Profil Akmalseferagic</title>
 
     <!-- Bootstrap core CSS -->
     <link href="/bootstrap-4.0.0/dist/css/bootstrap.min.css" rel="stylesheet">
@@ -56,12 +56,12 @@
 <div class="container">
       <div class="row">
       <div class="col-xs-5 col-sm-5 col-md-5 col-lg-5 col-xs-offset-0 col-sm-offset-0 col-md-offset-3 col-lg-offset-3 toppad" >
-      <img class="rounded-circle" src="bootstrap-4.0.0/assets/img/awi.jpg" width="225" height="280">
+      <img src="bootstrap-4.0.0/assets/img/akmal.jpeg" width="200" height="280">
       </div>
         <div class="col-xs-7 col-sm-7 col-md-7 col-lg-7 col-xs-offset-0 col-sm-offset-0 col-md-offset-3 col-lg-offset-3 toppad" >
           <div class="panel panel-info">
             <div class="panel-heading">
-              <h3 class="panel-title">Muhammad Alwi</h3>
+              <h3 class="panel-title">Mohammad Akmaluddin N</h3>
 
             </div>
                   <table class="table table-user-information">
@@ -69,12 +69,12 @@
                       <tr>
                         <td>Keahlian</td>
                         <td>:</td>
-                        <td>Mobile apps Developer, Web Designer</td>
+                        <td>Mobile apps Developer, Web Designer, Graphic Designer, Videographer, Video Editor</td>
                       </tr>
                       <tr>
                         <td>Tanggal Lahir</td>
                         <td>:</td>
-                        <td>27/12/1998</td>
+                        <td>05/10/1998</td>
                       </tr>
                       <tr>
                         <td>Jenis Kelamin</td>
@@ -84,17 +84,17 @@
                         <tr>
                         <td>Alamat</td>
                         <td>:</td>
-                        <td>Leuwiliang, Bogor</td>
+                        <td>Kranji, Bekasi</td>
                       </tr>
                       <tr>
                         <td>Email</td>
                         <td>:</td>
-                        <td><a href="muhammadalwi27@gmail.com">muhammadalwi27@gmail.com</a></td>
+                        <td><a href="akmalseferagic@gmail.com">akmalseferagic@gmail.com</a></td>
                       </tr>
                       <tr>
                         <td>Telepon</td>
                         <td>:</td>
-                        <td>0857-1408-2960</td>
+                        <td>0858-7961-5275</td>
                       </tr>
                     </tbody>
                   </table>
@@ -109,7 +109,7 @@
 
       <!-- FOOTER -->
       <footer class="container">
-        <p>&copy; 2017-2018 Muhammad Alwi &middot; <a href="#">Privacy</a> &middot; <a href="#">Terms</a></p>
+        <p>&copy; akmalseferagic 2018 (AnakBaikituMaigrets) &middot; <a href="#">Privacy</a> &middot; <a href="#">Terms</a></p>
       </footer>
     </main>
 

@@ -14,8 +14,9 @@ class PostController extends Controller
      */
     public function index()
     {
-        $posts=post::all();
-        return view('home', compact('posts'));
+        //$posts=post::all();
+        //return view('home', compact('posts'));
+        echo("HAI");
     }
 
     /**
@@ -47,7 +48,7 @@ class PostController extends Controller
      */
     public function show($id)
     {
-        //
+        
     }
 
     /**
@@ -56,6 +57,7 @@ class PostController extends Controller
      * @param  int  $id
      * @return \Illuminate\Http\Response
      */
+
     public function edit($id)
     {
         //
